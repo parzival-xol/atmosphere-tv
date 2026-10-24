@@ -1,0 +1,35 @@
+# Local Android / Gradle build state
+.gradle/
+**/.gradle/
+**/build/
+local.properties
+*.apk
+*.aab
+*.apks
+*.keystore
+*.jks
+*.hprof
+hs_err_pid*.log
+replay_pid*.log
+# Local credentials, Python and device records
+.env
+.env.*
+!.env.example
+venv/
+.venv/
+__pycache__/
+*.pyc
+adbkey
+adbkey.pub
+**/adbkey/
+backup/
+backups/
+shots/
+traces/
+changes.json
+package-inventory.txt
+# Editor / OS state
+.idea/
+*.iml
+.DS_Store
+Thumbs.db

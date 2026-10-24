@@ -1,0 +1,6 @@
+Atmosphere TV is an independently maintained launcher fork derived from cleanyourtv.
+Upstream: https://github.com/Gathin23/cleanyourtv
+Base revision: c965ef4b11acc0ab34d6964f1dda745904111a46
+Upstream copyright and MIT license are preserved in LICENSE.
+Changes: native animated weather, weather/app crossfades, neutral Home and Back navigation, expanding top-bar labels, rearrange controls and remote app actions.
+This repository contains the launcher and the small subset of upstream ADB/theme tools used to build, install and customize it. It is not an upstream contribution branch or an official cleanyourtv release.

@@ -1,0 +1,11 @@
+{
+  "columns": 5,
+  "dock_apps": [
+    "com.google.android.youtube.tv",
+    "com.netflix.ninja",
+    "com.amazon.amazonvideo.livingroom",
+    "com.viewlift.hoichoi",
+    "org.videolan.vlc"
+  ],
+  "consume_volume_keys": false
+}

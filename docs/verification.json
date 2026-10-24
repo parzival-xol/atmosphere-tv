@@ -1,0 +1,15 @@
+{
+  "version": "2.8-personal-weather",
+  "version_code": 12,
+  "base_revision": "c965ef4b11acc0ab34d6964f1dda745904111a46",
+  "unit_tests": {
+    "tests": 232,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "lint_errors": 0,
+  "lint_warnings": 82,
+  "tested_device": "Hisense SmartTV 4K FFM / songshan / Android 11",
+  "screenshots_are_real_tv_captures": true
+}
