@@ -66,12 +66,12 @@ An earlier YouTube-to-VLC crash report could not be reproduced; its cause remain
 
 Bug reports should include the TV model, Android/firmware version, reproduction steps, and a screenshot without personal information. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-For upstream cleanyourtv, this project belongs in **SHOWCASE.md → Forks of the launcher**, because it changes the launcher and adds network weather. A proposed listing is in [docs/UPSTREAM_SHOWCASE.md](docs/UPSTREAM_SHOWCASE.md). It has not been submitted upstream.
+For upstream cleanyourtv, this project belongs in **SHOWCASE.md → Forks of the launcher**, because it changes the launcher and adds network weather. The listing was submitted in [cleanyourtv PR #1439](https://github.com/Gathin23/cleanyourtv/pull/1439); see [submission details](docs/UPSTREAM_SHOWCASE.md). Submission does not imply acceptance or endorsement by upstream.
 
 ## Credits and license
 
 - **Gathin and cleanyourtv contributors** — original launcher and tools, [base commit](https://github.com/Gathin23/cleanyourtv/tree/c965ef4b11acc0ab34d6964f1dda745904111a46). Their MIT copyright notice is retained in [LICENSE](LICENSE).
-- **Outfit** — included font files and SIL Open Font License in `launcher/app/src/main/res/font/`.
+- **Outfit** — font files in `launcher/app/src/main/res/font/`; [SIL Open Font License](launcher/FONT-LICENSE-OFL.txt).
 - **Open-Meteo** — current weather; attribution is displayed on Home.
 - **ipwho.is** — approximate location fallback.
 
